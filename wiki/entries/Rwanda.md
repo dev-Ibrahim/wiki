@@ -1,0 +1,1 @@
+Rwanda, officially the Republic of Rwanda, is a landlocked country in the Great Rift Valley, where the African Great Lakes region and East Africa converge. Located a few degrees south of the Equator, Rwanda is bordered by Uganda, Tanzania, Burundi, and the Democratic Republic of the Congo.

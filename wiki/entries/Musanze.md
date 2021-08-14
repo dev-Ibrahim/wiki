@@ -1,0 +1,1 @@
+Musanze is a district in the Northern Province of Rwanda. Its capital city is Ruhengeri, Musanze is the fourth largest town in Rwanda and is quickly growing into a bustling metropolis. Musanze district is one of thirty districts in all of Rwanda and one of five districts in the Northern Province.
