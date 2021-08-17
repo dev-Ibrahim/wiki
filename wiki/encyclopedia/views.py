@@ -98,8 +98,6 @@ def search(request):
         for entry in util.list_entries():
             if value.upper() in entry.upper():
                 subStringEntries.append(entry)
-        if subStringEntries:
-            return render(request, "encyclopedia/nonExistingEntry.html")
 
         return render(request, "encyclopedia/index.html", {
         "entries": subStringEntries,
